@@ -8,8 +8,8 @@
 <a href="mailto:ronaldkipkiruibii819@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-ronaldkipkiruibii819@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ronaldkipkiruibii819@gmail.com" alt="Gmail Badge">
 </a>
-<a href="https://kipkuruireuben.com" target="new">
-  <img src="https://img.shields.io/website?color=0ab9e6&style=flat&logo=Internet&up_message=Portfolio&url=https://kipkuruireuben.com" alt="Website Badge">
+<a href="https://kipkuruiRonald.com" target="new">
+  <img src="https://img.shields.io/website?color=0ab9e6&style=flat&logo=Internet&up_message=Portfolio&url=https://kipkuruiRonald.com" alt="Website Badge">
 </a>
 <a href="https://www.linkedin.com/in/kipkurui-reuben" target="_blank">
   <img src="https://img.shields.io/badge/-@kipkuruireuben-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kipkurui-reuben" alt="Linkedin Badge">
