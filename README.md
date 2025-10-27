@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/gh/username?color=blue&label=Profile+Views)
 ![Repositories](https://badgen.net/badge/Repositories/XX?color=blue)
-![Followers](https://badgen.net/github/followers/KipkuruiRonald?color=blue)
+![Followers](https://badgen.net/github/followers/username?color=blue)
 
 ## 💻 Technical Skills
 
