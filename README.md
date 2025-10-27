@@ -73,9 +73,12 @@ Collection of academic projects and experiments in data analysis, machine learni
 [![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kipkuruireuben)
 
 </div>
+---
 
-### Open to collaboration and learning opportunities!
+<div align="center">
+
+### ⭐ Feel free to explore my repositories and don't hesitate to reach out!
 
 ![Visitor Count](https://profile-counter.glitch.me/KipkuruiRonald/count.svg)
 
-</div align="center">
+</div>
