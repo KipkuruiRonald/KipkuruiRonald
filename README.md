@@ -1,10 +1,10 @@
-# Hi there, I'm [Kipkurui Ronald] 👋
+# Hi there, I'm Kipkurui Ronald 👋
 
 > Full-Stack Developer | Mobile App Specialist | Creative Problem Solver
 
-![Profile Views](https://komarev.com/gh/username?color=blue&label=Profile+Views)
-![Repositories](https://badgen.net/badge/Repositories/XX?color=blue)
-![Followers](https://badgen.net/github/followers/username?color=blue)
+![Profile Views](https://komarev.com/gh/KipkuruiRonald?color=blue&label=Profile+Views)
+![Repositories](https://badgen.net/badge/Repositories/10+/blue)
+![Followers](https://badgen.net/github/followers/KipkuruiRonald?color=blue)
 
 ## 💻 Technical Skills
 
@@ -46,13 +46,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KipkuruiRonald&theme=default&hide_border=true" />
 </p>
 
 ## 🚀 Featured Projects
 
-### [Project 1 Name](https://github.com/KipkuruiRonald/Alertify)
-📱 **Mobile App** - Comprehensive description of the mobile application, its features, and technologies used.
+### [Alertify - Emergency App](https://github.com/KipkuruiRonald/Alertify)
+📱 **Android Emergency Alert Application** - A safety app that sends instant SOS alerts with location to emergency contacts with single tap functionality.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
@@ -60,20 +60,21 @@
 
 ---
 
-### [Project 2 Name](https://github.com/KipkuruiRonald/daraja_tutorial)
-🌐 **Web Application** - Detailed explanation of the web project, its purpose and technical stack.
+### [Daraja API Tutorial](https://github.com/KipkuruiRonald/daraja_tutorial)
+🌐 **M-Pesa Integration Guide** - Comprehensive tutorial and implementation for integrating Safaricom's Daraja API for mobile payments in web applications.
 
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![API](https://img.shields.io/badge/API-FF6C37?logo=json&logoColor=white)
 
 ---
 
-### [Project 3 Name](https://github.com/KipkuruiRonald/colab-notebook)
-🛠️ **Utility Tool** - Description of the programming tool or library and its capabilities.
+### [Data Science Notebooks](https://github.com/KipkuruiRonald/colab-notebook)
+🛠️ **Machine Learning Utilities** - Collection of Google Colab notebooks for data analysis, machine learning experiments, and Python programming tutorials.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-8A2BE2?logo=pandas&logoColor=white)
 
 ---
 
@@ -81,13 +82,13 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldkipkiruibii819.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldkipkiruibii819@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-kipkurui)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://KipkuruiRonald.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/0799333014)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kipkuruironald.github.io)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254799333014)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/bii_ronnie)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/kipkuruironald)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kipkuruironaldke)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/KipkuruiRonald)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kipkuruironald)
 
 </div>
 
