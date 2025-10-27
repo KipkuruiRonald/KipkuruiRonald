@@ -90,41 +90,6 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<br><b>My GitHub Activity</b><br>
-
-<div style="display:flex;align-item:center;justify-content:center;gap:20px">
-  <a href="http://www.github.com/KipkuruiRonald">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KipkuruiRonald&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
-  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KipkuruiRonald&layout=compact&theme=dark&langs_count=8"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KipkuruiRonald&layout=compact&theme=light&langs_count=8"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KipkuruiRonald&layout=compact" />
-  </picture>
-  
-  <a href="http://www.github.com/KipkuruiRonald">
-    <img src="https://github-readme-stats.vercel.app/api?username=KipkuruiRonald&show_icons=true&hide=issues&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Kipkurui's GitHub stats" />
-  </a>
-</div>
-
-<br>
-<p align="center" style="text-align: center;">
-  <a href="https://github.com/KipkuruiRonald">
-    <img width="400px" align="center" src="https://github-profile-trophy.vercel.app/?username=KipkuruiRonald&theme=dracula&title=Organizations,Commit,PullRequest,Issue,Stars,Repositories,MultiLanguage&column=3&margin-w=15&margin-h=15" />
-  </a>
-</p>
-</div>
-
 ## 🚀 Featured Projects
 
 ### [Android Emergency Alert Application](https://github.com/KipkuruiRonald/alertify)
