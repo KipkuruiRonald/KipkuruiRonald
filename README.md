@@ -8,38 +8,35 @@
 
 ## 💻 Technical Skills
 
-### 📱 Mobile App Development
-- [Android Development](https://developer.android.com/)
-- [Kotlin](https://kotlinlang.org/)
-- [Java](https://www.java.com/)
-- [Android Studio](https://developer.android.com/studio)
-- [Firebase](https://firebase.google.com/)
-- [Material Design](https://material.io/design)
-- [RESTful APIs](https://restfulapi.net/)
+### 📱 **Mobile App Development**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-0081CB?style=for-the-badge&logo=material-design&logoColor=white)
 
-### 🌐 Web Development
-- [HTML5 & CSS3](https://developer.mozilla.org/en-US/docs/Web)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [React](https://reactjs.org/)
-- [Node.js](https://nodejs.org/)
-- [Python](https://www.python.org/)
-- [Responsive Design](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+### 🌐 **Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 💾 Programming & Databases
-- [Java](https://www.java.com/)
-- [Python](https://www.python.org/)
-- [Kotlin](https://kotlinlang.org/)
-- [SQL](https://www.w3schools.com/sql/)
-- [MongoDB](https://www.mongodb.com/)
-- [Data Structures](https://www.geeksforgeeks.org/data-structures/)
+### 💾 **Programming & Databases**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Tools & Technologies
-- [Git & GitHub](https://github.com/)
-- [VS Code](https://code.visualstudio.com/)
-- [Figma](https://www.figma.com/)
-- [Postman](https://www.postman.com/)
-- [Google Colab](https://colab.research.google.com/)
-- [Jupyter Notebooks](https://jupyter.org/)
+### 🛠️ **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -48,37 +45,58 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KipkuruiRonald&layout=compact&theme=default&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KipkuruiRonald&theme=default&hide_border=true" />
+</p>
+
 ## 🚀 Featured Projects
 
 ### [Android Emergency Alert Application](https://github.com/KipkuruiRonald/alertify)
 A safety app that sends instant SOS alerts with location to emergency contacts with single tap functionality.
 
-**Technologies:** Android, Kotlin, Firebase, Location Services
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
 
 ---
 
 ### [Daraja API Tutorial](https://github.com/KipkuruiRonald/daraja-api)
 Comprehensive tutorial and implementation for integrating Safaricom's Daraja API for mobile payments in web applications.
 
-**Technologies:** Node.js, JavaScript, M-Pesa API
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
 
 ### [Data Science Notebooks](https://github.com/KipkuruiRonald/data-science)
 Machine Learning Utilities - Collection of Google Colab notebooks for data analysis, machine learning experiments, and Python programming tutorials.
 
-**Technologies:** Python, Jupyter, Data Science, Machine Learning
-
-## 📫 Let's Connect
-
-- **Email:** [kipkuruireuben@gmail.com](mailto:kipkuruireuben@gmail.com)
-- **LinkedIn:** [Kipkurui Reuben](https://linkedin.com/in/kipkurui-reuben)
-- **Portfolio:** [kipkuruireuben.com](https://kipkuruireuben.com)
-- **WhatsApp:** [+254759455996](https://wa.me/254759455996)
-- **X (Twitter):** [@kipkuruireuben](https://twitter.com/kipkuruireuben)
-- **Dribbble:** [Kipkurui Reuben](https://dribbble.com/kipkuruireuben)
-- **Facebook:** [Kipkurui Reuben](https://facebook.com/kipkuruireuben)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ---
 
-⭐ **Feel free to explore my repositories and don't hesitate to reach out!**
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kipkuruireuben@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kipkurui-reuben)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kipkuruireuben.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254759455996)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kipkuruireuben)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/kipkuruireuben)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kipkuruireuben)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ **Feel free to explore my repositories and don't hesitate to reach out!**
+
+![Visitor Count](https://profile-counter.glitch.me/KipkuruiRonald/count.svg)
+
+</div>
