@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Kipkurui Ronald 👋
 
 > Computer Science Student | Mobile App Developer | Full-Stack Enthusiast
@@ -144,4 +143,3 @@ Collection of Google Colab notebooks for data analysis, machine learning, and Py
 ### ⭐ Feel free to explore my repositories and don't hesitate to reach out!
 
 </div>
-```
