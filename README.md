@@ -61,21 +61,21 @@ Collection of academic projects and experiments in data analysis, machine learni
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kipkuruireuben@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kipkurui-reuben)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-My%20Work-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kipkuruireuben.com)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kipkuruireuben@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kipkurui-reuben)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kipkuruireuben.com)
 
 <br>
 
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-Collaborate-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254759455996)
-[![Twitter](https://img.shields.io/badge/TWITTER-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kipkuruireuben)
-[![Dribbble](https://img.shields.io/badge/DRIBBBLE-Designs-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/kipkuruireuben)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kipkuruireuben)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254759455996)
+[![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kipkuruireuben)
+[![Dribbble](https://img.shields.io/badge/DRIBBBLE-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/kipkuruireuben)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kipkuruireuben)
 
-</div align="center">
+</div>
 
 ### Open to collaboration and learning opportunities!
 
 ![Visitor Count](https://profile-counter.glitch.me/KipkuruiRonald/count.svg)
 
-</div>
+</div align="center">
