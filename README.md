@@ -122,7 +122,7 @@ Collection of Google Colab notebooks for data analysis, machine learning, and Py
 
 <div align="center">
 
-### ⭐ Feel free to explore my repositories and don't hesitate to reach out!
+### ⭐ Feel free to explore my repositories and don't hesitate to reach out! 
 
 </div>
 ```
