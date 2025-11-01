@@ -1,26 +1,25 @@
 ```markdown
-# Hi there, I'm Kipkurui Ronald 👋
-
-> Computer Science Student | Mobile App Developer | Full-Stack Enthusiast
+# Kipkurui Ronald - Portfolio
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-@KipkuruiRonald-%23181717?style=for-the-badge&logo=github)](https://github.com/KipkuruiRonald)
-[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldkipkiruibii819@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br>
+**Computer Science Student | Mobile App Developer | Full-Stack Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-bii)
-[![Dribbble](https://img.shields.io/badge/-DRIBBBLE-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/kipkuruironald)
-[![WhatsApp](https://img.shields.io/badge/-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254799333014)
-[![Twitter](https://img.shields.io/badge/-TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bii_ronnie)
+[About](#about) • [Projects](#projects) • [Skills](#skills) • [Connect](#connect)
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KipkuruiRonald&label=Profile%20views&color=0e75b6&style=flat" alt="KipkuruiRonald" /> </p>
+## About
 
-## 🎓 Education & Background
+I'm a passionate Computer Science student specializing in software engineering and mobile development. Currently pursuing my Bachelor's degree with a focus on creating innovative solutions through code. I enjoy building practical applications that solve real-world problems and enhance user experiences.
+
+## Education & Background
 
 **Bachelor of Science in Computer Science**  
 *Currently pursuing degree with focus on software engineering and mobile development*
@@ -32,7 +31,7 @@
 - Database Management Systems
 - Web Technologies
 
-## 💻 Technical Skills
+## Technical Skills
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -84,7 +83,30 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+## Projects
+
+### 🚨 Android Emergency Alert Application
+**Android • Kotlin • Firebase • Location Services**
+
+A safety application that enables users to send instant SOS alerts with their precise location to emergency contacts with a single tap.
+
+[View Repository](https://github.com/KipkuruiRonald/alertify)
+
+### 💰 Daraja API Tutorial
+**Node.js • JavaScript • M-Pesa API**
+
+Comprehensive tutorial and implementation for integrating Safaricom's Daraja API for mobile payments in web applications.
+
+[View Repository](https://github.com/KipkuruiRonald/daraja-api)
+
+### 📊 Data Science Notebooks
+**Python • Jupyter • Machine Learning • Data Analysis**
+
+Collection of Google Colab notebooks for data analysis, machine learning experiments, and Python programming tutorials.
+
+[View Repository](https://github.com/KipkuruiRonald/data-science)
+
+## GitHub Stats
 
 <div align="center">
 <br><b>My GitHub Activity</b><br>
@@ -107,22 +129,25 @@
 </p>
 </div>
 
-## 🚀 Featured Projects
+## Connect
 
-### [Android Emergency Alert Application](https://github.com/KipkuruiRonald/alertify)
-A safety app that sends instant SOS alerts with location to emergency contacts with single tap functionality.
+<div align="center">
 
-### [Daraja API Tutorial](https://github.com/KipkuruiRonald/daraja-api)
-Comprehensive tutorial and implementation for integrating Safaricom's Daraja API for mobile payments.
+[![GitHub](https://img.shields.io/badge/GitHub-KipkuruiRonald-181717?style=for-the-badge&logo=github)](https://github.com/KipkuruiRonald)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldkipkiruibii819@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app)
 
-### [Data Science Notebooks](https://github.com/KipkuruiRonald/data-science)
-Collection of Google Colab notebooks for data analysis, machine learning, and Python programming.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-bii)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bii_ronnie)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254799333014)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Feel free to explore my repositories and don't hesitate to reach out! 
+### ⭐ Feel free to explore my repositories and don't hesitate to reach out!
 
 </div>
 ```
