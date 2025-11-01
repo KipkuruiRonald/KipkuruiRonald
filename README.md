@@ -4,54 +4,32 @@
 
 <div align="center">
 
-<!-- Social Icons in 2x2 Grid -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/KipkuruiRonald" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" height="28" style="color: #000000;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/ronald-bii" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="28" height="28" style="color: #0077B5;" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="28" height="28" style="color: #000000;" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:ronaldkipkiruibii819@gmail.com" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28" height="28" style="color: #EA4335;" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Additional Icons Row -->
-<div>
-  <a href="https://dribbble.com/kipkuruironald" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dribbble/dribbble-original.svg" width="28" height="28" style="color: #EA4C89;" />
+<!-- Social Icons in 2x3 Grid using Divs -->
+<div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 15px;">
+  <a href="https://github.com/KipkuruiRonald" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" style="color: #000000;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/254799333014" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="28" height="28" style="color: #25D366;" />
+  <a href="https://www.linkedin.com/in/ronald-bii" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="32" height="32" style="color: #0077B5;" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/bii_ronnie" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="28" height="28" style="color: #1DA1F2;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" style="color: #1DA1F2;" />
   </a>
 </div>
 
-<br>
+<div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 20px;">
+  <a href="https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="32" height="32" style="color: #000000;" />
+  </a>
+  <a href="mailto:ronaldkipkiruibii819@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" height="32" style="color: #EA4335;" />
+  </a>
+  <a href="https://wa.me/254799333014" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="32" height="32" style="color: #25D366;" />
+  </a>
+</div>
 
-<!-- Profile Views Centered at Bottom -->
+<!-- Profile Views Centered Below -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KipkuruiRonald&color=0e75b6&style=flat" alt="Profile views" />
 </p>
