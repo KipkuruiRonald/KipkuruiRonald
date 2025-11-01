@@ -182,7 +182,8 @@ Machine learning and data analysis notebooks.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="32" height="32" style="color: #000000;" />
   </a>
   <a href="mailto:ronaldkipkiruibii819@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32" height="32" style="color: #EA4335;" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="32" height="32" style="color: #D14836;" />
+</a>
   </a>
   <a href="https://wa.me/254799333014" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="32" height="32" style="color: #25D366;" />
