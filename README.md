@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-ronaldkipkiruibii819@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ronaldkipkiruibii819@gmail.com" alt="Gmail Badge">
 </a>
 <a href="https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" target="new">
-  <img src="https://img.shields.io/website?color=0ab9e6&style=flat&logo=Internet&up_message=Portfolio&url=https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" alt="Website Badge">
+  <img src="https://img.shields.io/website?url=https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app&label=Portfolio&color=0ab9e6&style=flat&logo=internet-explorer" alt="Portfolio Status">
 </a>
 <a href="https://www.linkedin.com/in/ronald-bii" target="_blank">
   <img src="https://img.shields.io/badge/-@ronald--bii-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronald-bii" alt="Linkedin Badge">
