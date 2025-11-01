@@ -3,41 +3,53 @@
 > Computer Science Student | Mobile App Developer
 
 <div align="center">
-  
-<!-- First row -->
-<a href="https://github.com/KipkuruiRonald" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ronald-bii" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0ab9e6?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
 
-<br>
-
-<!-- Second row -->
-<a href="mailto:ronaldkipkiruibii819@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://dribbble.com/kipkuruironald" target="_blank">
-  <img src="https://img.shields.io/badge/Dribbble-E64785?style=flat&logo=dribbble&logoColor=white" alt="Dribbble">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/bii_ronnie" target="_blank">
-  <img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" alt="X">
-</a>
-
-<br>
-
-<!-- Third row -->
-<a href="https://wa.me/254799333014" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
+<!-- Circular Social Media Icons -->
+<table align="center">
+  <tr>
+    <td align="center"></td>
+    <td align="center">
+      <a href="https://github.com/KipkuruiRonald" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="32" height="32" />
+      </a>
+    </td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ronald-bii" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32" height="32" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vercel.svg" width="32" height="32" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:ronaldkipkiruibii819@gmail.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="32" height="32" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://dribbble.com/kipkuruironald" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg" width="32" height="32" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/254799333014" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" width="32" height="32" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/bii_ronnie" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" width="32" height="32" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
