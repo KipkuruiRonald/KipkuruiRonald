@@ -164,58 +164,34 @@ Machine learning and data analysis notebooks.
 
 ### 📫 Let's connect and build something amazing!
 
-<!-- Social Icons in 2x3 Grid using Divs -->
-<div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 15px;">
-  <a href="https://github.com/KipkuruiRonald" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" style="color: #000000;" />
-  </a>
-  <a href="https://www.linkedin.com/in/ronald-bii" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" width="32" height="32" style="color: #0077B5;" />
-  </a>
-  <a href="https://x.com/bii_ronnie" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="32" height="32" style="color: #1DA1F2;" />
-  </a>
-</div>
-
-<div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 20px;">
-  <a href="https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="32" height="32" style="color: #000000;" />
-  </a>
-  <a href="mailto:ronaldkipkiruibii819@gmail.com" target="_blank">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/svgs/brands/google.svg" width="32" height="32" />
-</a>
-  <a href="https://wa.me/254799333014" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="32" height="32" style="color: #25D366;" />
-</a>
 <!-- GitHub -->
 <a href="https://github.com/KipkuruiRonald" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/ronald-bii" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <!-- X (Twitter) -->
 <a href="https://x.com/bii_ronnie" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
 
 <!-- Portfolio -->
 <a href="https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0ab9e6?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-0ab9e6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 <!-- Email -->
 <a href="mailto:ronaldkipkiruibii819@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <!-- WhatsApp -->
 <a href="https://wa.me/254799333014" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
-</div>
 
 </div>
