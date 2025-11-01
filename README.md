@@ -5,30 +5,16 @@
 
 <div align="center">
 
-<a href="https://github.com/KipkuruiRonald" title="Exploring the world of code, one commit at a time! 🚀" target="_blank">
-  <img src="https://img.shields.io/badge/-@KipkuruiRonald-%23181717?style=flat&logo=github" alt="GitHub Badge">
-</a>
-<a href="mailto:ronaldkipkiruibii819@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-ronaldkipkiruibii819@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ronaldkipkiruibii819@gmail.com" alt="Gmail Badge">
-</a>
-<a href="https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" target="new">
-  <img src="https://img.shields.io/website?color=0ab9e6&style=flat&logo=Internet&up_message=Portfolio&url=https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" alt="Website Badge">
-</a>
+[![GitHub](https://img.shields.io/badge/-@KipkuruiRonald-%23181717?style=for-the-badge&logo=github)](https://github.com/KipkuruiRonald)
+[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldkipkiruibii819@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app)
 
 <br>
 
-<a href="https://www.linkedin.com/in/ronald-bii" target="_blank">
-  <img src="https://img.shields.io/badge/-@ronald--bii-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronald-bii" alt="Linkedin Badge">
-</a>
-<a href="https://dribbble.com/kipkuruironald" target="_blank">
-  <img src="https://img.shields.io/badge/-kipkuruironald-E64785?style=flat&logo=dribbble&logoColor=white&link=https://dribbble.com/kipkuruironald" alt="Dribble Badge">
-</a>
-<a href="https://wa.me/254799333014" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/254799333014" alt="WhatsApp Badge">
-</a>
-<a href="https://x.com/bii_ronnie" target="_blank">
-  <img src="https://img.shields.io/badge/-@bii__ronnie-1DA1F2?style=flat&logo=x&logoColor=white&link=https://x.com/bii_ronnie" alt="X Badge">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-bii)
+[![Dribbble](https://img.shields.io/badge/-DRIBBBLE-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/kipkuruironald)
+[![WhatsApp](https://img.shields.io/badge/-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254799333014)
+[![Twitter](https://img.shields.io/badge/-TWITTER-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bii_ronnie)
 
 </div>
 
