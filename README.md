@@ -1,6 +1,9 @@
+```markdown
 # Hi there, I'm Kipkurui Ronald 👋
 
 > Computer Science Student | Mobile App Developer | Full-Stack Enthusiast
+
+<div align="center">
 
 <a href="https://github.com/KipkuruiRonald" title="Exploring the world of code, one commit at a time! 🚀" target="_blank">
   <img src="https://img.shields.io/badge/-@KipkuruiRonald-%23181717?style=flat&logo=github" alt="GitHub Badge">
@@ -11,8 +14,11 @@
 <a href="https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" target="new">
   <img src="https://img.shields.io/website?color=0ab9e6&style=flat&logo=Internet&up_message=Portfolio&url=https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" alt="Website Badge">
 </a>
+
+<br>
+
 <a href="https://www.linkedin.com/in/ronald-bii" target="_blank">
-  <img src="https://img.shields.io/badge/-@ronald-bii-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronald-bii" alt="Linkedin Badge">
+  <img src="https://img.shields.io/badge/-@ronald--bii-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronald-bii" alt="Linkedin Badge">
 </a>
 <a href="https://dribbble.com/kipkuruironald" target="_blank">
   <img src="https://img.shields.io/badge/-kipkuruironald-E64785?style=flat&logo=dribbble&logoColor=white&link=https://dribbble.com/kipkuruironald" alt="Dribble Badge">
@@ -21,8 +27,10 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/254799333014" alt="WhatsApp Badge">
 </a>
 <a href="https://x.com/bii_ronnie" target="_blank">
-  <img src="https://img.shields.io/badge/-@bii_ronnie-1DA1F2?style=flat&logo=x&logoColor=white&link=https://x.com/bii_ronnie" alt="X Badge">
+  <img src="https://img.shields.io/badge/-@bii__ronnie-1DA1F2?style=flat&logo=x&logoColor=white&link=https://x.com/bii_ronnie" alt="X Badge">
 </a>
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KipkuruiRonald&label=Profile%20views&color=0e75b6&style=flat" alt="KipkuruiRonald" /> </p>
 
@@ -90,6 +98,29 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+<div align="center">
+<br><b>My GitHub Activity</b><br>
+
+<div style="display:flex;align-items:center;justify-content:center;gap:20px;flex-wrap:wrap;">
+  <a href="http://www.github.com/KipkuruiRonald">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KipkuruiRonald&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+  
+  <a href="http://www.github.com/KipkuruiRonald">
+    <img src="https://github-readme-stats.vercel.app/api?username=KipkuruiRonald&show_icons=true&hide=issues&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Kipkurui's GitHub stats" />
+  </a>
+</div>
+
+<br>
+<p align="center" style="text-align: center;">
+  <a href="https://github.com/KipkuruiRonald">
+    <img width="400px" align="center" src="https://github-profile-trophy.vercel.app/?username=KipkuruiRonald&theme=dracula&title=Commit,PullRequest,Repositories,MultiLanguage&column=2&margin-w=15&margin-h=15" />
+  </a>
+</p>
+</div>
+
 ## 🚀 Featured Projects
 
 ### [Android Emergency Alert Application](https://github.com/KipkuruiRonald/alertify)
@@ -108,3 +139,4 @@ Collection of Google Colab notebooks for data analysis, machine learning, and Py
 ### ⭐ Feel free to explore my repositories and don't hesitate to reach out!
 
 </div>
+```
