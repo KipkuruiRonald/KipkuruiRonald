@@ -8,20 +8,20 @@
 <a href="mailto:ronaldkipkiruibii819@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-ronaldkipkiruibii819@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ronaldkipkiruibii819@gmail.com" alt="Gmail Badge">
 </a>
-<a href="https://kipkuruiRonald.com" target="new">
-  <img src="https://img.shields.io/website?color=0ab9e6&style=flat&logo=Internet&up_message=Portfolio&url=https://kipkuruiRonald.com" alt="Website Badge">
+<a href="https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" target="new">
+  <img src="https://img.shields.io/website?color=0ab9e6&style=flat&logo=Internet&up_message=Portfolio&url=https://myportfolio-aldgg3i4z-kipkiruiclouds-projects.vercel.app" alt="Website Badge">
 </a>
-<a href="https://www.linkedin.com/in/kipkurui-reuben" target="_blank">
-  <img src="https://img.shields.io/badge/-@kipkuruireuben-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kipkurui-reuben" alt="Linkedin Badge">
+<a href="https://www.linkedin.com/in/ronald-bii" target="_blank">
+  <img src="https://img.shields.io/badge/-@ronald-bii-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronald-bii" alt="Linkedin Badge">
 </a>
-<a href="https://dribbble.com/kipkuruireuben" target="_blank">
-  <img src="https://img.shields.io/badge/-kipkuruireuben-E64785?style=flat&logo=dribbble&logoColor=white&link=https://dribbble.com/kipkuruireuben" alt="Dribble Badge">
+<a href="https://dribbble.com/kipkuruironald" target="_blank">
+  <img src="https://img.shields.io/badge/-kipkuruironald-E64785?style=flat&logo=dribbble&logoColor=white&link=https://dribbble.com/kipkuruironald" alt="Dribble Badge">
 </a>
-<a href="https://wa.me/254759455996" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/254759455996" alt="WhatsApp Badge">
+<a href="https://wa.me/254799333014" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/254799333014" alt="WhatsApp Badge">
 </a>
-<a href="https://twitter.com/kipkuruireuben" target="_blank">
-  <img src="https://img.shields.io/badge/-@kipkuruireuben-1DA1F2?style=flat&logo=x&logoColor=white&link=https://twitter.com/kipkuruireuben" alt="Twitter Badge">
+<a href="https://x.com/bii_ronnie" target="_blank">
+  <img src="https://img.shields.io/badge/-@bii_ronnie-1DA1F2?style=flat&logo=x&logoColor=white&link=https://x.com/bii_ronnie" alt="X Badge">
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KipkuruiRonald&label=Profile%20views&color=0e75b6&style=flat" alt="KipkuruiRonald" /> </p>
