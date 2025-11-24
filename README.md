@@ -151,13 +151,6 @@
 
 ### [Alertify - Emergency App](https://github.com/KipkuruiRonald/alertify)
 Android safety application with SOS alerts and location sharing.
-
-### [Daraja API Integration](https://github.com/KipkuruiRonald/daraja-api)
-Mobile payment integration tutorial using Safaricom's API.
-
-### [Data Science Portfolio](https://github.com/KipkuruiRonald/data-science)
-Machine learning and data analysis notebooks.
-
 ---
 
 <div align="center">
